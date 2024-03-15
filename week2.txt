@@ -1,3 +1,2 @@
 đây là file week2
 thuộc branch week2 mà thôi
-thuộc branch: week2 và main
